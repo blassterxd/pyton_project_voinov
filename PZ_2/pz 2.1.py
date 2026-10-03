@@ -18,6 +18,5 @@ def main():
     except ValueError:
         print("Ошибка: нужно ввести целое число.")
 
-
 if __name__ == "__main__":
     main()
